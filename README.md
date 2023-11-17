@@ -20,3 +20,7 @@ This repository contains notebooks covering fundamental concepts related to quan
 4. **[Future contract](FutureContract.ipynb)**
    - This notebook explores Platinum (PL) stock and its futures over a year using data visualization and technical analysis. The notebook retrieves historical data, visualizes price trends, and employs technical indicators (RSI, Bollinger Bands, MACD) to assess market conditions and identify potential trading signals.
    - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DneshP/quantitative-analysis/blob/master/FutureContract.ipynb)
+
+5. **[Trend analysis](trendAnalysis.ipynb)**
+   - This notebook explores trend analysis using moving average and different window samples
+   - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DneshP/quantitative-analysis/blob/master/trendAnalysis.ipynb)
