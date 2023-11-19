@@ -22,5 +22,7 @@ This repository contains notebooks covering fundamental concepts related to quan
    - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DneshP/quantitative-analysis/blob/master/FutureContract.ipynb)
 
 5. **[Trend analysis](trendAnalysis.ipynb)**
-   - This notebook explores trend analysis using moving average and different window samples
+   - This notebook explores trend analysis using the following:
+      * Simple moving average and different window samples
+      * Exponential moving average
    - Open in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DneshP/quantitative-analysis/blob/master/trendAnalysis.ipynb)
